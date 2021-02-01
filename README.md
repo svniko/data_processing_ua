@@ -1,4 +1,4 @@
-# # Матеріали по дисципліні "Обробка даних Python"
+# Матеріали по дисципліні "Обробка даних Python"
 ## Лекції
 <p>1. <a href="https://github.com/svniko/data_processing_ua/blob/main/notebooks/Lecture_1_ua.ipynb">Ноутбук до лекції 1</a><p>
 
